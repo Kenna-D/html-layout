@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0%;
+  height: 100vh;
+}
+
+.box1 {
+  height: 12%;
+  width: 100%;
+  background-color: rgb(212, 211, 211);
+  padding: 1.5%;
+}
+
+.square {
+  height: 90%;
+  width: 11%;
+  background-color: rgb(127, 156, 235);
+}
+
+.box2 {
+  height: 30%;
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3.5vh;
+  font-weight: lighter;
+  margin-top: 4%;
+}
+
+.box3 {
+  height: 12%;
+  width: 100%;
+  background-color: rgb(106, 153, 240);
+}
+
+.box4 {
+  height: 12%;
+  background-color: rgb(6, 168, 168);
+}
+
+.box5 {
+  height: 12%;
+  background-color: rgb(188, 241, 127);
+}
+
+.box6 {
+  height: 12%;
+  background-color: rgb(234, 255, 47);
+}

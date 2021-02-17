@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 15px;
+  height: 100vh;
+  width: 100vw;
+}
+
+.box1 {
+  width: 100%;
+  border: 3px solid black;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.rectangle1 {
+  height: 100px;
+  width: 50px;
+  background-color: purple;
+  display: inline-block;
+  margin: 80px 30px 5px 20px;
+}
+
+.rectangle2 {
+  height: 200px;
+  width: 400px;
+  background-color: rgb(13, 122, 58);
+  display: inline-block;
+  margin: 10px 10px 5px 10px;
+}
+
+.circle {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(158, 196, 245);
+  border-radius: 100%;
+  display: inline-block;
+  margin: 10px 10px 10px 30px;
+}
+
+.box2 {
+  width: 100%;
+  height: 30%;
+  border-style: dotted;
+  border-color: black;
+  padding: 30px;
+  margin-bottom: 10px;
+  
+}
+
+.rectangle3 {
+  
+  width: 850px; 
+  height: 200px;
+  background-color: rgb(247, 247, 188);
+  box-shadow: 1px 1px 5px 1px black;
+  margin: auto;
+  margin-top: 15px;
+  
+  
+}
+
+
+.box3 {
+  width: 50%;
+  height: 30%;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-shadow: 1px 1px 15px 1px #000000
+  
+}
+
+.box3 h1 {
+  text-align: center;
+  
+  letter-spacing: 10px;
+}
